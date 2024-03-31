@@ -1,11 +1,11 @@
 "use strict";
 
 const express = require("express");
-const logger = require("morgan");
 const app = express();
-const PORT = 3000;
-
+const PORT = process.env.PORT || 8080;
+const path = require("path");
 const { GameDig } = require("gamedig");
+const cors = require("cors");
 
 const sockets = [
   "103.219.30.118:11543",
@@ -57,15 +57,24 @@ const parseServerName = (name) => {
   return res ? parseInt(res[1], 10) : null;
 };
 
-app.use(logger("dev"));
+if (process.env.PRODUCTION !== "true") {
+  const logger = require("morgan");
+  app.use(logger("dev"));
+}
+
+app.use(cors());
+
+app.use("/static", express.static(path.join(__dirname, "public")));
+
 app.get("/", (req, res) => res.send("Puniavo!"));
 
-app.get("/servers", async (req, res) => {
+app.get("/l4d2", (req, res) => {
+  res.sendFile(path.join(__dirname, "/public/index.html"));
+});
+
+app.get("/api/v1/servers", async (req, res) => {
   const serverList = await getServerList(sockets);
-  serverList.sort((a, b) => {
-    [a, b] = [parseServerName(a.name), parseServerName(b.name)];
-    return a - b;
-  });
+  serverList.sort((a, b) => parseServerName(a.name) - parseServerName(b.name));
   res.json(serverList);
 });
 
