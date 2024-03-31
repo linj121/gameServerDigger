@@ -17,20 +17,66 @@
         : "https://nodejs-418911.uk.r.appspot.com/api/v1";
       function App() {
         const [servers, setServers] = React.useState([]);
-        React.useEffect(async () => {
+        const [loading, setLoading] = React.useState(false);
+        const getServers = async () => {
           try {
             const data = await fetch(`${API_URL}/servers`).then((response) =>
               response.json()
             );
-            setServers(data);
+            setServers((_) => data);
           } catch (error) {
             console.error(error);
+          } finally {
           }
+        };
+        React.useEffect(() => {
+          getServers();
           return () => {
             console.log("Component unmounted");
           };
         }, []);
-        return <div>{JSON.stringify(servers)}</div>;
+        const handleRefresh = async () => {
+          setLoading(true);
+          try {
+            await getServers();
+          } catch (error) {
+            console.error(error);
+          } finally {
+            setLoading(false);
+          }
+        };
+        return (
+          <div className="main-content">
+            <header>
+              <h1>Game Servers</h1>
+            </header>
+            <main>
+              <button onClick={() => handleRefresh()}>
+                {loading ? "Loading..." : "Refresh"}
+              </button>
+              {servers.length === 0 ? (
+                <h2 className="loading">Loading...</h2>
+              ) : (
+                servers.map((server, index) => (
+                  <div className="server-info" key={server.index}>
+                    <h2>{server.name}</h2>
+                    <p>Connect: {server.connect}</p>
+                    <p>Map: {server.map}</p>
+                    <p>Game Type: {server.raw?.game}</p>
+                    <p>Version: {server.raw?.version}</p>
+                    <p>
+                      Capacity: {server.numplayers} / {server.maxplayers}
+                    </p>
+                    <p>Ping: {server.ping}</p>
+                  </div>
+                ))
+              )}
+            </main>
+            <footer>
+              <p>2024 @ Josh Lim</p>
+            </footer>
+          </div>
+        );
       }
       const container = document.getElementById("root");
       const root = ReactDOM.createRoot(container);
