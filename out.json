@@ -1,1 +1,518 @@
-{"103.219.30.118:12963":{"name":"呆呆の小窝#1","map":"黑色狂欢节 [1：高速公路]","password":false,"raw":{"protocol":7,"folder":"left4dead2","game":"纯净三方","appId":550,"numbots":0,"listentype":"d","environment":"l","secure":1,"version":"2.2.3.4","tags":["coop","empty","secure"],"players":[]},"maxplayers":8,"numplayers":0,"players":[],"bots":[],"queryPort":12963,"connect":"103.219.30.118:12963","ping":204},"103.219.30.118:25417":{"name":"呆呆の小窝#15","map":"短暂时刻 [1: 河畔]","password":false,"raw":{"protocol":7,"folder":"left4dead2","game":"无限火力","appId":550,"numbots":0,"listentype":"d","environment":"l","secure":0,"version":"2.2.3.4","tags":["coop","insecure"],"players":[]},"maxplayers":8,"numplayers":3,"players":[],"bots":[],"queryPort":25417,"connect":"103.219.30.118:25417","ping":206},"103.219.30.118:19863":{"name":"呆呆の小窝#4","map":"黑色狂欢节 [4：谷仓]","password":false,"raw":{"protocol":7,"folder":"left4dead2","game":"纯净三方","appId":550,"numbots":0,"listentype":"d","environment":"l","secure":1,"version":"2.2.3.4","tags":["coop","secure"],"players":[{"name":"黎川","score":4,"time":2878.5283203125},{"name":"爱六花的勇太","score":0,"time":3050.947021484375},{"name":"高枕勿you","score":4,"time":760.3129272460938},{"name":"仙布着急","score":0,"time":125.70600128173828},{"name":"1036504433","score":0,"time":1071.06689453125}]},"maxplayers":8,"numplayers":5,"players":[{"name":"爱六花的勇太","raw":{"score":0,"time":3050.947021484375}},{"name":"黎川","raw":{"score":4,"time":2878.5283203125}},{"name":"1036504433","raw":{"score":0,"time":1071.06689453125}},{"name":"高枕勿you","raw":{"score":4,"time":760.3129272460938}},{"name":"仙布着急","raw":{"score":0,"time":125.70600128173828}}],"bots":[],"queryPort":19863,"connect":"103.219.30.118:19863","ping":199},"103.219.30.118:11543":{"name":"呆呆の小窝#0","map":"呵呵30 [失心疯]","password":false,"raw":{"protocol":7,"folder":"left4dead2","game":"纯净三方","appId":550,"numbots":0,"listentype":"d","environment":"l","secure":1,"version":"2.2.3.4","tags":["coop","secure"],"players":[{"name":"迪","score":0,"time":173.5194549560547},{"name":"斗战胜佛","score":0,"time":1579.11962890625},{"name":"YUKIKAZE","score":0,"time":1473.213134765625},{"name":"1016918058","score":0,"time":1316.3692626953125},{"name":"海豹突稽队","score":0,"time":577.4728393554688},{"name":"猫猫头小娚娘","score":0,"time":800.856689453125},{"name":"阿宇","score":0,"time":625.0401611328125},{"name":"最后的利维坦","score":2,"time":1052.1011962890625}]},"maxplayers":16,"numplayers":8,"players":[{"name":"斗战胜佛","raw":{"score":0,"time":1579.11962890625}},{"name":"YUKIKAZE","raw":{"score":0,"time":1473.213134765625}},{"name":"1016918058","raw":{"score":0,"time":1316.3692626953125}},{"name":"最后的利维坦","raw":{"score":2,"time":1052.1011962890625}},{"name":"猫猫头小娚娘","raw":{"score":0,"time":800.856689453125}},{"name":"阿宇","raw":{"score":0,"time":625.0401611328125}},{"name":"海豹突稽队","raw":{"score":0,"time":577.4728393554688}},{"name":"迪","raw":{"score":0,"time":173.5194549560547}}],"bots":[],"queryPort":11543,"connect":"103.219.30.118:11543","ping":214},"103.219.30.118:18560":{"name":"呆呆の小窝#3","map":"黑色狂欢节 [1：高速公路]","password":false,"raw":{"protocol":7,"folder":"left4dead2","game":"纯净三方","appId":550,"numbots":0,"listentype":"d","environment":"l","secure":1,"version":"2.2.3.4","tags":["coop","empty","secure"],"players":[]},"maxplayers":8,"numplayers":0,"players":[],"bots":[],"queryPort":18560,"connect":"103.219.30.118:18560","ping":210},"103.219.30.118:13433":{"name":"呆呆の小窝#2","map":"死亡中心 [3：购物中心]","password":false,"raw":{"protocol":7,"folder":"left4dead2","game":"纯净三方","appId":550,"numbots":0,"listentype":"d","environment":"l","secure":1,"version":"2.2.3.4","tags":["coop","secure"],"players":[{"name":"偷吃电弧星","score":2,"time":1240.5711669921875},{"name":"油条蘸豆浆","score":2,"time":262.5428771972656}]},"maxplayers":8,"numplayers":2,"players":[{"name":"偷吃电弧星","raw":{"score":2,"time":1240.5711669921875}},{"name":"油条蘸豆浆","raw":{"score":2,"time":262.5428771972656}}],"bots":[],"queryPort":13433,"connect":"103.219.30.118:13433","ping":216},"103.219.30.118:22716":{"name":"呆呆の小窝#5","map":"死亡中心 [1：旅馆]","password":false,"raw":{"protocol":7,"folder":"left4dead2","game":"纯净三方","appId":550,"numbots":0,"listentype":"d","environment":"l","secure":1,"version":"2.2.3.4","tags":["coop","secure"],"players":[{"name":"傲天神爷pjj","score":2,"time":219.0470428466797},{"name":"w 敏达","score":0,"time":218.0171356201172}]},"maxplayers":8,"numplayers":3,"players":[{"name":"傲天神爷pjj","raw":{"score":2,"time":219.0470428466797}},{"name":"w 敏达","raw":{"score":0,"time":218.0171356201172}}],"bots":[],"queryPort":22716,"connect":"103.219.30.118:22716","ping":202},"106.55.254.89:27016":{"name":"呆呆の小窝#12","map":"黑色狂欢节 [1：高速公路]","password":false,"raw":{"protocol":7,"folder":"left4dead2","game":"多特三方","appId":550,"numbots":0,"listentype":"d","environment":"l","secure":1,"version":"2.2.3.4","tags":["coop","empty","secure"],"players":[]},"maxplayers":8,"numplayers":0,"players":[],"bots":[],"queryPort":27016,"connect":"106.55.254.89:27016","ping":223},"49.232.122.146:27016":{"name":"呆呆の小窝#11","map":"74区 [7-Arriving at Sector-74]","password":false,"raw":{"protocol":7,"folder":"left4dead2","game":"多特三方","appId":550,"numbots":0,"listentype":"d","environment":"l","secure":1,"version":"2.2.3.4","tags":["coop","secure"],"players":[{"name":"追尸少年","score":20,"time":3567.773681640625},{"name":"290393CC","score":101,"time":3567.703125}]},"maxplayers":8,"numplayers":2,"players":[{"name":"追尸少年","raw":{"score":20,"time":3567.773681640625}},{"name":"290393CC","raw":{"score":101,"time":3567.703125}}],"bots":[],"queryPort":27016,"connect":"49.232.122.146:27016","ping":219},"49.232.122.146:27015":{"name":"呆呆の小窝#10","map":"本能逃离 [Just Another Smalltown?]","password":false,"raw":{"protocol":7,"folder":"left4dead2","game":"多特三方","appId":550,"numbots":0,"listentype":"d","environment":"l","secure":1,"version":"2.2.3.4","tags":["coop","secure"],"players":[{"name":"leadoredor","score":15,"time":5104.66064453125},{"name":"沃德发","score":8,"time":1227.804443359375},{"name":"热心邻居隔壁老张","score":14,"time":1289.175048828125},{"name":"翻斗花园-白给-胡图图","score":39,"time":1830.531982421875}]},"maxplayers":8,"numplayers":4,"players":[{"name":"leadoredor","raw":{"score":15,"time":5104.66064453125}},{"name":"翻斗花园-白给-胡图图","raw":{"score":39,"time":1830.531982421875}},{"name":"热心邻居隔壁老张","raw":{"score":14,"time":1289.175048828125}},{"name":"沃德发","raw":{"score":8,"time":1227.804443359375}}],"bots":[],"queryPort":27015,"connect":"49.232.122.146:27015","ping":215},"103.219.39.249:37739":{"name":"呆呆の小窝#16[4特16秒][普通药役]","map":"c1m4_atrium","password":false,"raw":{"protocol":17,"folder":"left4dead2","game":"AnneHappy药役","appId":550,"numbots":0,"listentype":"d","environment":"l","secure":1,"version":"2.2.3.4","steamid":"90195137843522567","tags":["versus","gravity","secure"],"players":[{"name":"91雲先生","score":1,"time":6555.49853515625},{"name":"卫兹南","score":2,"time":6548.78125},{"name":"你看我像不像你跌","score":2,"time":6257.43408203125},{"name":"Re.上海少妇","score":2,"time":4405.50927734375},{"name":"几把猫","score":0,"time":333.26519775390625}]},"maxplayers":8,"numplayers":5,"players":[{"name":"91雲先生","raw":{"score":1,"time":6555.49853515625}},{"name":"卫兹南","raw":{"score":2,"time":6548.78125}},{"name":"你看我像不像你跌","raw":{"score":2,"time":6257.43408203125}},{"name":"Re.上海少妇","raw":{"score":2,"time":4405.50927734375}},{"name":"几把猫","raw":{"score":0,"time":333.26519775390625}}],"bots":[],"queryPort":37739,"connect":"103.219.39.249:37739","ping":220},"103.219.39.249:30040":{"name":"呆呆の小窝#7","map":"死亡中心 [2：街道]","password":false,"raw":{"protocol":7,"folder":"left4dead2","game":"多特三方","appId":550,"numbots":0,"listentype":"d","environment":"l","secure":1,"version":"2.2.3.4","tags":["coop","secure"],"players":[{"name":"蔓越莓","score":0,"time":64.13233947753906}]},"maxplayers":8,"numplayers":1,"players":[{"name":"蔓越莓","raw":{"score":0,"time":64.13233947753906}}],"bots":[],"queryPort":30040,"connect":"103.219.39.249:30040","ping":226},"103.219.39.249:32537":{"name":"呆呆の小窝#8","map":"静寂时分 [3: 建筑工地]","password":false,"raw":{"protocol":7,"folder":"left4dead2","game":"多特三方","appId":550,"numbots":0,"listentype":"d","environment":"l","secure":1,"version":"2.2.3.4","tags":["coop","secure"],"players":[{"name":"潤","score":16,"time":3741.005615234375},{"name":"lcw1bt","score":32,"time":1874.2078857421875},{"name":"时光竹影","score":19,"time":1492.96728515625},{"name":"名命难真","score":13,"time":2387.912841796875},{"name":"私を見てください0721","score":22,"time":483.54705810546875},{"name":"革新派尼古丁真","score":7,"time":1987.307861328125},{"name":"๋๋","score":16,"time":8824.5859375}]},"maxplayers":8,"numplayers":7,"players":[{"name":"๋๋","raw":{"score":16,"time":8824.5859375}},{"name":"潤","raw":{"score":16,"time":3741.005615234375}},{"name":"名命难真","raw":{"score":13,"time":2387.912841796875}},{"name":"革新派尼古丁真","raw":{"score":7,"time":1987.307861328125}},{"name":"lcw1bt","raw":{"score":32,"time":1874.2078857421875}},{"name":"时光竹影","raw":{"score":19,"time":1492.96728515625}},{"name":"私を見てください0721","raw":{"score":22,"time":483.54705810546875}}],"bots":[],"queryPort":32537,"connect":"103.219.39.249:32537","ping":227},"103.219.39.249:30452":{"name":"呆呆の小窝#9","map":"黑色狂欢节 [2：游乐场]","password":false,"raw":{"protocol":7,"folder":"left4dead2","game":"多特三方","appId":550,"numbots":0,"listentype":"d","environment":"l","secure":1,"version":"2.2.3.4","tags":["coop","secure"],"players":[]},"maxplayers":8,"numplayers":4,"players":[],"bots":[],"queryPort":30452,"connect":"103.219.39.249:30452","ping":229},"106.55.254.89:27015":{"name":"呆呆の小窝#6","map":"74区 [2-A train away]","password":false,"raw":{"protocol":7,"folder":"left4dead2","game":"纯净三方","appId":550,"numbots":0,"listentype":"d","environment":"l","secure":1,"version":"2.2.3.4","tags":["coop","secure"],"players":[{"name":"double.K","score":9,"time":753.5991821289062}]},"maxplayers":8,"numplayers":1,"players":[{"name":"double.K","raw":{"score":9,"time":753.5991821289062}}],"bots":[],"queryPort":27015,"connect":"106.55.254.89:27015","ping":230}}
+{
+  "103.219.30.118:12963": {
+    "name": "呆呆の小窝#1",
+    "map": "黑色狂欢节 [1：高速公路]",
+    "password": false,
+    "raw": {
+      "protocol": 7,
+      "folder": "left4dead2",
+      "game": "纯净三方",
+      "appId": 550,
+      "numbots": 0,
+      "listentype": "d",
+      "environment": "l",
+      "secure": 1,
+      "version": "2.2.3.4",
+      "tags": ["coop", "empty", "secure"],
+      "players": []
+    },
+    "maxplayers": 8,
+    "numplayers": 0,
+    "players": [],
+    "bots": [],
+    "queryPort": 12963,
+    "connect": "103.219.30.118:12963",
+    "ping": 204
+  },
+  "103.219.30.118:25417": {
+    "name": "呆呆の小窝#15",
+    "map": "短暂时刻 [1: 河畔]",
+    "password": false,
+    "raw": {
+      "protocol": 7,
+      "folder": "left4dead2",
+      "game": "无限火力",
+      "appId": 550,
+      "numbots": 0,
+      "listentype": "d",
+      "environment": "l",
+      "secure": 0,
+      "version": "2.2.3.4",
+      "tags": ["coop", "insecure"],
+      "players": []
+    },
+    "maxplayers": 8,
+    "numplayers": 3,
+    "players": [],
+    "bots": [],
+    "queryPort": 25417,
+    "connect": "103.219.30.118:25417",
+    "ping": 206
+  },
+  "103.219.30.118:19863": {
+    "name": "呆呆の小窝#4",
+    "map": "黑色狂欢节 [4：谷仓]",
+    "password": false,
+    "raw": {
+      "protocol": 7,
+      "folder": "left4dead2",
+      "game": "纯净三方",
+      "appId": 550,
+      "numbots": 0,
+      "listentype": "d",
+      "environment": "l",
+      "secure": 1,
+      "version": "2.2.3.4",
+      "tags": ["coop", "secure"],
+      "players": [
+        { "name": "黎川", "score": 4, "time": 2878.5283203125 },
+        { "name": "爱六花的勇太", "score": 0, "time": 3050.947021484375 },
+        { "name": "高枕勿you", "score": 4, "time": 760.3129272460938 },
+        { "name": "仙布着急", "score": 0, "time": 125.70600128173828 },
+        { "name": "1036504433", "score": 0, "time": 1071.06689453125 }
+      ]
+    },
+    "maxplayers": 8,
+    "numplayers": 5,
+    "players": [
+      {
+        "name": "爱六花的勇太",
+        "raw": { "score": 0, "time": 3050.947021484375 }
+      },
+      { "name": "黎川", "raw": { "score": 4, "time": 2878.5283203125 } },
+      { "name": "1036504433", "raw": { "score": 0, "time": 1071.06689453125 } },
+      { "name": "高枕勿you", "raw": { "score": 4, "time": 760.3129272460938 } },
+      { "name": "仙布着急", "raw": { "score": 0, "time": 125.70600128173828 } }
+    ],
+    "bots": [],
+    "queryPort": 19863,
+    "connect": "103.219.30.118:19863",
+    "ping": 199
+  },
+  "103.219.30.118:11543": {
+    "name": "呆呆の小窝#0",
+    "map": "呵呵30 [失心疯]",
+    "password": false,
+    "raw": {
+      "protocol": 7,
+      "folder": "left4dead2",
+      "game": "纯净三方",
+      "appId": 550,
+      "numbots": 0,
+      "listentype": "d",
+      "environment": "l",
+      "secure": 1,
+      "version": "2.2.3.4",
+      "tags": ["coop", "secure"],
+      "players": [
+        { "name": "迪", "score": 0, "time": 173.5194549560547 },
+        { "name": "斗战胜佛", "score": 0, "time": 1579.11962890625 },
+        { "name": "YUKIKAZE", "score": 0, "time": 1473.213134765625 },
+        { "name": "1016918058", "score": 0, "time": 1316.3692626953125 },
+        { "name": "海豹突稽队", "score": 0, "time": 577.4728393554688 },
+        { "name": "猫猫头小娚娘", "score": 0, "time": 800.856689453125 },
+        { "name": "阿宇", "score": 0, "time": 625.0401611328125 },
+        { "name": "最后的利维坦", "score": 2, "time": 1052.1011962890625 }
+      ]
+    },
+    "maxplayers": 16,
+    "numplayers": 8,
+    "players": [
+      { "name": "斗战胜佛", "raw": { "score": 0, "time": 1579.11962890625 } },
+      { "name": "YUKIKAZE", "raw": { "score": 0, "time": 1473.213134765625 } },
+      {
+        "name": "1016918058",
+        "raw": { "score": 0, "time": 1316.3692626953125 }
+      },
+      {
+        "name": "最后的利维坦",
+        "raw": { "score": 2, "time": 1052.1011962890625 }
+      },
+      {
+        "name": "猫猫头小娚娘",
+        "raw": { "score": 0, "time": 800.856689453125 }
+      },
+      { "name": "阿宇", "raw": { "score": 0, "time": 625.0401611328125 } },
+      {
+        "name": "海豹突稽队",
+        "raw": { "score": 0, "time": 577.4728393554688 }
+      },
+      { "name": "迪", "raw": { "score": 0, "time": 173.5194549560547 } }
+    ],
+    "bots": [],
+    "queryPort": 11543,
+    "connect": "103.219.30.118:11543",
+    "ping": 214
+  },
+  "103.219.30.118:18560": {
+    "name": "呆呆の小窝#3",
+    "map": "黑色狂欢节 [1：高速公路]",
+    "password": false,
+    "raw": {
+      "protocol": 7,
+      "folder": "left4dead2",
+      "game": "纯净三方",
+      "appId": 550,
+      "numbots": 0,
+      "listentype": "d",
+      "environment": "l",
+      "secure": 1,
+      "version": "2.2.3.4",
+      "tags": ["coop", "empty", "secure"],
+      "players": []
+    },
+    "maxplayers": 8,
+    "numplayers": 0,
+    "players": [],
+    "bots": [],
+    "queryPort": 18560,
+    "connect": "103.219.30.118:18560",
+    "ping": 210
+  },
+  "103.219.30.118:13433": {
+    "name": "呆呆の小窝#2",
+    "map": "死亡中心 [3：购物中心]",
+    "password": false,
+    "raw": {
+      "protocol": 7,
+      "folder": "left4dead2",
+      "game": "纯净三方",
+      "appId": 550,
+      "numbots": 0,
+      "listentype": "d",
+      "environment": "l",
+      "secure": 1,
+      "version": "2.2.3.4",
+      "tags": ["coop", "secure"],
+      "players": [
+        { "name": "偷吃电弧星", "score": 2, "time": 1240.5711669921875 },
+        { "name": "油条蘸豆浆", "score": 2, "time": 262.5428771972656 }
+      ]
+    },
+    "maxplayers": 8,
+    "numplayers": 2,
+    "players": [
+      {
+        "name": "偷吃电弧星",
+        "raw": { "score": 2, "time": 1240.5711669921875 }
+      },
+      { "name": "油条蘸豆浆", "raw": { "score": 2, "time": 262.5428771972656 } }
+    ],
+    "bots": [],
+    "queryPort": 13433,
+    "connect": "103.219.30.118:13433",
+    "ping": 216
+  },
+  "103.219.30.118:22716": {
+    "name": "呆呆の小窝#5",
+    "map": "死亡中心 [1：旅馆]",
+    "password": false,
+    "raw": {
+      "protocol": 7,
+      "folder": "left4dead2",
+      "game": "纯净三方",
+      "appId": 550,
+      "numbots": 0,
+      "listentype": "d",
+      "environment": "l",
+      "secure": 1,
+      "version": "2.2.3.4",
+      "tags": ["coop", "secure"],
+      "players": [
+        { "name": "傲天神爷pjj", "score": 2, "time": 219.0470428466797 },
+        { "name": "w 敏达", "score": 0, "time": 218.0171356201172 }
+      ]
+    },
+    "maxplayers": 8,
+    "numplayers": 3,
+    "players": [
+      {
+        "name": "傲天神爷pjj",
+        "raw": { "score": 2, "time": 219.0470428466797 }
+      },
+      { "name": "w 敏达", "raw": { "score": 0, "time": 218.0171356201172 } }
+    ],
+    "bots": [],
+    "queryPort": 22716,
+    "connect": "103.219.30.118:22716",
+    "ping": 202
+  },
+  "106.55.254.89:27016": {
+    "name": "呆呆の小窝#12",
+    "map": "黑色狂欢节 [1：高速公路]",
+    "password": false,
+    "raw": {
+      "protocol": 7,
+      "folder": "left4dead2",
+      "game": "多特三方",
+      "appId": 550,
+      "numbots": 0,
+      "listentype": "d",
+      "environment": "l",
+      "secure": 1,
+      "version": "2.2.3.4",
+      "tags": ["coop", "empty", "secure"],
+      "players": []
+    },
+    "maxplayers": 8,
+    "numplayers": 0,
+    "players": [],
+    "bots": [],
+    "queryPort": 27016,
+    "connect": "106.55.254.89:27016",
+    "ping": 223
+  },
+  "49.232.122.146:27016": {
+    "name": "呆呆の小窝#11",
+    "map": "74区 [7-Arriving at Sector-74]",
+    "password": false,
+    "raw": {
+      "protocol": 7,
+      "folder": "left4dead2",
+      "game": "多特三方",
+      "appId": 550,
+      "numbots": 0,
+      "listentype": "d",
+      "environment": "l",
+      "secure": 1,
+      "version": "2.2.3.4",
+      "tags": ["coop", "secure"],
+      "players": [
+        { "name": "追尸少年", "score": 20, "time": 3567.773681640625 },
+        { "name": "290393CC", "score": 101, "time": 3567.703125 }
+      ]
+    },
+    "maxplayers": 8,
+    "numplayers": 2,
+    "players": [
+      { "name": "追尸少年", "raw": { "score": 20, "time": 3567.773681640625 } },
+      { "name": "290393CC", "raw": { "score": 101, "time": 3567.703125 } }
+    ],
+    "bots": [],
+    "queryPort": 27016,
+    "connect": "49.232.122.146:27016",
+    "ping": 219
+  },
+  "49.232.122.146:27015": {
+    "name": "呆呆の小窝#10",
+    "map": "本能逃离 [Just Another Smalltown?]",
+    "password": false,
+    "raw": {
+      "protocol": 7,
+      "folder": "left4dead2",
+      "game": "多特三方",
+      "appId": 550,
+      "numbots": 0,
+      "listentype": "d",
+      "environment": "l",
+      "secure": 1,
+      "version": "2.2.3.4",
+      "tags": ["coop", "secure"],
+      "players": [
+        { "name": "leadoredor", "score": 15, "time": 5104.66064453125 },
+        { "name": "沃德发", "score": 8, "time": 1227.804443359375 },
+        { "name": "热心邻居隔壁老张", "score": 14, "time": 1289.175048828125 },
+        {
+          "name": "翻斗花园-白给-胡图图",
+          "score": 39,
+          "time": 1830.531982421875
+        }
+      ]
+    },
+    "maxplayers": 8,
+    "numplayers": 4,
+    "players": [
+      {
+        "name": "leadoredor",
+        "raw": { "score": 15, "time": 5104.66064453125 }
+      },
+      {
+        "name": "翻斗花园-白给-胡图图",
+        "raw": { "score": 39, "time": 1830.531982421875 }
+      },
+      {
+        "name": "热心邻居隔壁老张",
+        "raw": { "score": 14, "time": 1289.175048828125 }
+      },
+      { "name": "沃德发", "raw": { "score": 8, "time": 1227.804443359375 } }
+    ],
+    "bots": [],
+    "queryPort": 27015,
+    "connect": "49.232.122.146:27015",
+    "ping": 215
+  },
+  "103.219.39.249:37739": {
+    "name": "呆呆の小窝#16[4特16秒][普通药役]",
+    "map": "c1m4_atrium",
+    "password": false,
+    "raw": {
+      "protocol": 17,
+      "folder": "left4dead2",
+      "game": "AnneHappy药役",
+      "appId": 550,
+      "numbots": 0,
+      "listentype": "d",
+      "environment": "l",
+      "secure": 1,
+      "version": "2.2.3.4",
+      "steamid": "90195137843522567",
+      "tags": ["versus", "gravity", "secure"],
+      "players": [
+        { "name": "91雲先生", "score": 1, "time": 6555.49853515625 },
+        { "name": "卫兹南", "score": 2, "time": 6548.78125 },
+        { "name": "你看我像不像你跌", "score": 2, "time": 6257.43408203125 },
+        { "name": "Re.上海少妇", "score": 2, "time": 4405.50927734375 },
+        { "name": "几把猫", "score": 0, "time": 333.26519775390625 }
+      ]
+    },
+    "maxplayers": 8,
+    "numplayers": 5,
+    "players": [
+      { "name": "91雲先生", "raw": { "score": 1, "time": 6555.49853515625 } },
+      { "name": "卫兹南", "raw": { "score": 2, "time": 6548.78125 } },
+      {
+        "name": "你看我像不像你跌",
+        "raw": { "score": 2, "time": 6257.43408203125 }
+      },
+      {
+        "name": "Re.上海少妇",
+        "raw": { "score": 2, "time": 4405.50927734375 }
+      },
+      { "name": "几把猫", "raw": { "score": 0, "time": 333.26519775390625 } }
+    ],
+    "bots": [],
+    "queryPort": 37739,
+    "connect": "103.219.39.249:37739",
+    "ping": 220
+  },
+  "103.219.39.249:30040": {
+    "name": "呆呆の小窝#7",
+    "map": "死亡中心 [2：街道]",
+    "password": false,
+    "raw": {
+      "protocol": 7,
+      "folder": "left4dead2",
+      "game": "多特三方",
+      "appId": 550,
+      "numbots": 0,
+      "listentype": "d",
+      "environment": "l",
+      "secure": 1,
+      "version": "2.2.3.4",
+      "tags": ["coop", "secure"],
+      "players": [{ "name": "蔓越莓", "score": 0, "time": 64.13233947753906 }]
+    },
+    "maxplayers": 8,
+    "numplayers": 1,
+    "players": [
+      { "name": "蔓越莓", "raw": { "score": 0, "time": 64.13233947753906 } }
+    ],
+    "bots": [],
+    "queryPort": 30040,
+    "connect": "103.219.39.249:30040",
+    "ping": 226
+  },
+  "103.219.39.249:32537": {
+    "name": "呆呆の小窝#8",
+    "map": "静寂时分 [3: 建筑工地]",
+    "password": false,
+    "raw": {
+      "protocol": 7,
+      "folder": "left4dead2",
+      "game": "多特三方",
+      "appId": 550,
+      "numbots": 0,
+      "listentype": "d",
+      "environment": "l",
+      "secure": 1,
+      "version": "2.2.3.4",
+      "tags": ["coop", "secure"],
+      "players": [
+        { "name": "潤", "score": 16, "time": 3741.005615234375 },
+        { "name": "lcw1bt", "score": 32, "time": 1874.2078857421875 },
+        { "name": "时光竹影", "score": 19, "time": 1492.96728515625 },
+        { "name": "名命难真", "score": 13, "time": 2387.912841796875 },
+        {
+          "name": "私を見てください0721",
+          "score": 22,
+          "time": 483.54705810546875
+        },
+        { "name": "革新派尼古丁真", "score": 7, "time": 1987.307861328125 },
+        { "name": "๋๋", "score": 16, "time": 8824.5859375 }
+      ]
+    },
+    "maxplayers": 8,
+    "numplayers": 7,
+    "players": [
+      { "name": "๋๋", "raw": { "score": 16, "time": 8824.5859375 } },
+      { "name": "潤", "raw": { "score": 16, "time": 3741.005615234375 } },
+      { "name": "名命难真", "raw": { "score": 13, "time": 2387.912841796875 } },
+      {
+        "name": "革新派尼古丁真",
+        "raw": { "score": 7, "time": 1987.307861328125 }
+      },
+      { "name": "lcw1bt", "raw": { "score": 32, "time": 1874.2078857421875 } },
+      { "name": "时光竹影", "raw": { "score": 19, "time": 1492.96728515625 } },
+      {
+        "name": "私を見てください0721",
+        "raw": { "score": 22, "time": 483.54705810546875 }
+      }
+    ],
+    "bots": [],
+    "queryPort": 32537,
+    "connect": "103.219.39.249:32537",
+    "ping": 227
+  },
+  "103.219.39.249:30452": {
+    "name": "呆呆の小窝#9",
+    "map": "黑色狂欢节 [2：游乐场]",
+    "password": false,
+    "raw": {
+      "protocol": 7,
+      "folder": "left4dead2",
+      "game": "多特三方",
+      "appId": 550,
+      "numbots": 0,
+      "listentype": "d",
+      "environment": "l",
+      "secure": 1,
+      "version": "2.2.3.4",
+      "tags": ["coop", "secure"],
+      "players": []
+    },
+    "maxplayers": 8,
+    "numplayers": 4,
+    "players": [],
+    "bots": [],
+    "queryPort": 30452,
+    "connect": "103.219.39.249:30452",
+    "ping": 229
+  },
+  "106.55.254.89:27015": {
+    "name": "呆呆の小窝#6",
+    "map": "74区 [2-A train away]",
+    "password": false,
+    "raw": {
+      "protocol": 7,
+      "folder": "left4dead2",
+      "game": "纯净三方",
+      "appId": 550,
+      "numbots": 0,
+      "listentype": "d",
+      "environment": "l",
+      "secure": 1,
+      "version": "2.2.3.4",
+      "tags": ["coop", "secure"],
+      "players": [{ "name": "double.K", "score": 9, "time": 753.5991821289062 }]
+    },
+    "maxplayers": 8,
+    "numplayers": 1,
+    "players": [
+      { "name": "double.K", "raw": { "score": 9, "time": 753.5991821289062 } }
+    ],
+    "bots": [],
+    "queryPort": 27015,
+    "connect": "106.55.254.89:27015",
+    "ping": 230
+  }
+}

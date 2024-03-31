@@ -28,7 +28,7 @@ const sockets = [
 ];
 
 async function getServerList(list) {
-  const result = {};
+  const result = [];
   const queries = list.map(async (server) => {
     const [host, port] = server.split(":");
     try {
@@ -37,7 +37,8 @@ async function getServerList(list) {
         host,
         port,
       });
-      result[server] = queryResult;
+      queryResult["server"] = server;
+      result.push(queryResult);
     } catch (error) {
       console.log("Error getting info from server: ", server);
     }
@@ -51,12 +52,21 @@ async function getServerList(list) {
   }
 }
 
+const parseServerName = (name) => {
+  let res = name.match(/#(\d+)/);
+  return res ? parseInt(res[1], 10) : null;
+};
+
 app.use(logger("dev"));
 app.get("/", (req, res) => res.send("Puniavo!"));
 
 app.get("/servers", async (req, res) => {
   const serverList = await getServerList(sockets);
+  serverList.sort((a, b) => {
+    [a, b] = [parseServerName(a.name), parseServerName(b.name)];
+    return a - b;
+  });
   res.json(serverList);
 });
 
-app.listen(PORT, () => console.log(`Example app listening on port ${PORT}!`));
+app.listen(PORT, () => console.log(`Now listening on port ${PORT}!`));
